@@ -4,7 +4,10 @@
   font-size: 62.5%;
 
   --main-black: #0d1117;
+  --mid-black: #1f1c24ff;
+  --smooth-grey: #666666ff;
   --main-purple: #8500d3;
+  --comp-color: #ff6600ff;
 }
 
 * {
