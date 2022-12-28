@@ -10,9 +10,17 @@
 .navbar__item {
   font-size: 1.6rem;
   padding: 2rem;
-
+  transition: 1s;
 }
 
+.navbar__item:hover {
+  background-color: blueviolet;
+}
+
+.navbar__item > a {
+  text-decoration: none;
+  color: white;
+}
 .selected {
-  border-bottom: 5px solid green;
+  border-bottom: 5px solid var(--main-purple);
 }

@@ -2,6 +2,9 @@
   scroll-behavior: smooth;
   font-family: 'Roboto', sans-serif;
   font-size: 62.5%;
+
+  --main-black: #0d1117;
+  --main-purple: #8500d3;
 }
 
 * {
@@ -12,6 +15,8 @@
 
 body {
   font-size: 10px;
+  background-color: var(--main-black);
+  color: white;
 }
 
 li {
