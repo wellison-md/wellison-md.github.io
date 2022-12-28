@@ -1,6 +1,7 @@
 :root {
   scroll-behavior: smooth;
-
+  font-family: 'Roboto', sans-serif;
+  font-size: 62.5%;
 }
 
 * {
