@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="36"
+   height="36"
+   viewBox="0 0 36 36.000002"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01, custom)"
+   sodipodi:docname="favicon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="9.595066"
+     inkscape:cx="11.828996"
+     inkscape:cy="15.059823"
+     inkscape:window-width="1316"
+     inkscape:window-height="704"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:#ff0000;stroke-width:1.87679"
+       id="path3692"
+       cx="-18"
+       cy="18"
+       transform="scale(-1,1)"
+       r="18" />
+    <g
+       aria-label="w"
+       id="text3864"
+       style="font-weight:bold;font-size:31.9276px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:justify;fill:#ffffff;stroke-width:0.855202">
+      <path
+         d="m 7.4639099,11.381818 q 0.063855,-0.606625 0.3831312,-1.053611 0.3512036,-0.4469865 0.79819,-0.4469865 0.319276,0 0.6066244,0.1915655 0.7981905,0.574697 1.1174665,1.724091 0.319276,1.149393 0.383131,2.39457 0.09578,1.213248 0.351203,1.628307 0.223494,0.415059 0.638552,1.979511 0.415059,1.532525 0.893973,3.480109 0.478914,1.947584 0.702407,2.745774 0.989756,-2.458426 1.500598,-4.054806 1.021683,-3.065049 2.426497,-3.065049 0.862046,0 2.426498,1.500597 1.564452,1.500597 2.139149,2.649991 0.510842,1.085538 1.245177,1.883728 0.287348,-0.79819 1.468669,-6.289737 1.213249,-5.523475 1.883729,-6.321665 0.351203,-0.3831313 0.79819,-0.3831313 0.478914,0 0.893973,0.3831313 0.415058,0.351204 0.415058,0.830118 0,0.25542 -0.191565,0.79819 -0.191566,0.510841 -0.574697,1.947583 -0.351204,1.436742 -0.734335,3.512036 -0.510841,2.809629 -1.404814,5.970462 -0.893973,3.128905 -1.309032,3.512036 -0.287348,0.287348 -0.893973,0.287348 -0.79819,0 -1.532525,-0.989755 -0.734334,-0.989756 -2.969266,-4.916851 -0.383132,-0.67048 -1.245177,-1.340959 -0.159638,0.223493 -0.446986,0.893973 -0.255421,0.638552 -0.925901,2.298787 -0.670479,1.628307 -1.532525,3.512036 -0.734334,1.756018 -1.787945,1.756018 -0.574697,0 -0.957828,-0.446986 -0.478914,-0.574697 -1.053611,-2.649991 -0.574697,-2.107222 -1.1813213,-4.821068 -0.6066244,-2.713846 -0.8939728,-3.639747 -0.638552,-2.234932 -0.638552,-2.841556 0,-0.606624 -0.4150588,-1.436742 -0.3831312,-0.830118 -0.3831312,-1.181321 z"
+         style="font-family:Purisa;-inkscape-font-specification:'Purisa Bold'"
+         id="path4076" />
+    </g>
+  </g>
+</svg>
