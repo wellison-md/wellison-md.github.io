@@ -6,7 +6,7 @@
   --main-black: #0d1117;
   --mid-black: #1f1c24ff;
   --smooth-grey: #666;
-  --main-purple: #dd55ffff;
+  --main-color: /*#dd55ffff;*/ #b61010;
   --comp-color: #ff6600ff;
   --text-color: #999;
 }
@@ -18,7 +18,7 @@
 }
 
 ::selection {
-  background-color: var(--main-purple);
+  background-color: var(--main-color);
   color: white;
 }
 
