@@ -5,9 +5,10 @@
 
   --main-black: #0d1117;
   --mid-black: #1f1c24ff;
-  --smooth-grey: #666666ff;
-  --main-purple: #8500d3;
+  --smooth-grey: #666;
+  --main-purple: #dd55ffff;
   --comp-color: #ff6600ff;
+  --text-color: #999;
 }
 
 * {
