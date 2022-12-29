@@ -16,6 +16,11 @@
   box-sizing: border-box;
 }
 
+::selection {
+  background-color: var(--main-purple);
+  color: white;
+}
+
 body {
   font-size: 10px;
   background-color: var(--main-black);
